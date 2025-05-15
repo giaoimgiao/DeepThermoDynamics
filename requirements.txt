@@ -1,0 +1,10 @@
+# 依赖包列表
+# 若使用 GPU 并已安装合适的 CUDA，可去掉 +cpu 后缀或根据官方说明调整
+ torch
+ torchvision
+ torchaudio
+ numpy
+ matplotlib
+ tqdm
+ streamlit
+ pandas 
